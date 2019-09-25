@@ -1,7 +1,7 @@
 {
   "name": "ticket",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "ticket app",
   "author": "qudx",
   "private": true,
   "scripts": {
