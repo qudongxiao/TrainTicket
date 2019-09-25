@@ -1,6 +1,6 @@
 # ticket
 
-> A Vue.js project
+>vuejs ticket app
 
 ## Build Setup
 
